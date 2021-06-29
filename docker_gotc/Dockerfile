@@ -1,0 +1,1 @@
+FROM broadinstitute/genomes-in-the-cloud:2.3.1-1504795437

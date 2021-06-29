@@ -1,0 +1,1 @@
+FROM broadinstitute/gatk:4.1.1.0

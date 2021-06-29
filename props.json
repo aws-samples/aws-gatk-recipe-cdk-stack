@@ -1,0 +1,22 @@
+{
+    "vpc_exists": false,
+    "vpc_tags": {
+        "Name": ""
+    },
+    "work_bucket": {
+        "exists": false,
+        "Name": "",
+        "ARN": ""
+    },
+    "data_bucket": {
+        "exists": false,
+        "Name": "",
+        "ARN": ""
+    },
+    "ref_bucket": {
+        "exists": false,
+        "Name": "",
+        "ARN": ""
+    },
+    "ref_s3_path": "s3://broad-references/"
+}
