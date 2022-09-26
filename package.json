@@ -1,6 +1,6 @@
 {
   "name": "aws-gatk-stack",
   "devDependencies": {
-    "aws-cdk": "^1.95.2"
+    "aws-cdk": "^1.174.0"
   }
 }
